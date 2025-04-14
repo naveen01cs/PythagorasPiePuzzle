@@ -1,5 +1,5 @@
 # Pythagoras pie puzzle
-###A Data Analysis on the Pythagoras pie puzzle
+### A Data Analysis on the Pythagoras pie puzzle
 ---------------------------------------------
 **Problem Statement**
 
